@@ -1,4 +1,4 @@
-# Probspace---Re_estate----1st-place-solution
+# Probspace---Re_estate---1st-place-solution
 
 https://prob.space/competitions/re_real_estate_2020/ranking
 
